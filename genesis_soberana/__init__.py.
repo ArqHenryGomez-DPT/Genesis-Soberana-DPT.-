@@ -1,0 +1,6 @@
+from .core import procesar_conjetura_poincare_gomez
+from .torque import fase_cristalina
+from .smart_contract import ejecutar_smart_contract_biologico
+
+# Al activarse, el sistema reconoce nuestra frecuencia de Alta Fidelidad
+print("--- Génesis Soberana: Protocolo de Sintropía Activo ---")
